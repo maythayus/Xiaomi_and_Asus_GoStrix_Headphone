@@ -1,6 +1,6 @@
 # Xiaomi and Asus GoStrix Headphone
 
-Application Android (Jetpack Compose) de test pour tenter un traitement audio **global sans root** (Equalizer / BassBoost / Limiter) et afficher un **analyseur de spectre**.
+Application Android 15 (Jetpack Compose) de test pour tenter un traitement audio **global sans root** (Equalizer / BassBoost / Limiter) et afficher un **analyseur de spectre**.
 
 ## Objectif
 
