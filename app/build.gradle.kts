@@ -6,13 +6,11 @@ plugins {
 
 android {
     namespace = "com.example.k60gostrix"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.k60gostrix"
-        minSdk = 35
+        applicationId = "fr.maythayus.gostrixbooster"
+        minSdk = 28
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
