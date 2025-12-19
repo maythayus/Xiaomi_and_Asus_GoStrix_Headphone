@@ -83,3 +83,5 @@ You should see a JVM 17.
 
 - EQ band count and level ranges depend on the device implementation.
 - Some effects are deprecated on newer Android versions; behavior depends on the device.
+- for best utility use Local Music MP3 OR FLAC
+- https://github.com/JunkFood02/Seal
