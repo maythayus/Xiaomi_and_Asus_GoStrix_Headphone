@@ -9,7 +9,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "fr.maythayus.gostrixbooster"
+        applicationId = "com.MaythayusCorp.gostrixbooster"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
